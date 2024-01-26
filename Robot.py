@@ -1,6 +1,3 @@
-# Autor: Ivan Olmos Pineda
-
-
 import pygame
 from pygame.locals import *
 
