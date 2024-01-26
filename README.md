@@ -6,6 +6,8 @@ More changes are to be expected, such as:
 
 
 -Changing the path choosing algorithm for a more complicated one
+
 -Ensuring that the agents do not collide with each other
+
 -Adding extra stacks to store the boxes in, each created by the Robot agent.
 
